@@ -1,0 +1,45 @@
+*{
+    font-family: serif;
+}
+body{
+    background-color: powderblue;
+}
+.pic{
+    background-image: url('pic.PNG');
+    height:280px;
+    width:250px;
+    border-radius : 50%;
+}
+.sa{
+    height:500px;
+    width:600px;
+    font-size: 18px;
+}
+.list{
+     height:400px;
+    width:250px;
+    margin-left: 550px;
+}
+ol{
+    list-style-type: upper-roman;
+}
+.Ulist{
+   list-style-type: disc; 
+}
+.Ulist2{
+   list-style-type: square; 
+}
+.Ulist3{
+   list-style-type: circle; 
+}
+header,footer{
+background-color: #f2f2f2;
+padding: 5px;
+text-align: center;
+}
+
+nav ul li {
+display: inline;
+margin-right: 50px;
+font-size: 20px;
+}
